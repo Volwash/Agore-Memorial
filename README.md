@@ -5,6 +5,7 @@ This README would normally document whatever steps are necessary to get your app
 ### What is this repository for? ###
 
 * Quick summary
+This is to provide a Atlas and info on the planets that the Universe Agore has. These are just planets that you can choose from to rp in. 
 * Version 0.0
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
