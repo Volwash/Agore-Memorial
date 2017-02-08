@@ -24,9 +24,9 @@ Click the link to add the bot to a certain discord server. Make sure your logged
 * Code review
 * Other guidelines
 
-### Who do I talk to? ###
+# Who do I talk to? #
 
-* Repo owner or admin
+### Repo owner or admin ###
 * That would be me Volwash. You can contact me on discord at Volwash#9979
-* Other community or team contact
+### Other community or team contact ###
 * dragonfire535, who can be contacted on Discord at dragonfire535#8081
